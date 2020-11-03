@@ -1,0 +1,3 @@
+[ogram-config]
+TOKEN = 1261526770:AAHx3vPfEEVOFGwf_X3t2EpFK3I-RfM_kJA
+UPLOAD_FOLDER = uploads
