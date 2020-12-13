@@ -145,4 +145,4 @@ def apiDownload(file_key):
 
 
 if __name__ == "__main__":
-    app.run(host='0.0.0.0', debug=False, port=9432)
+    app.run(host='162.241.87.250', debug=False, port=8080)
